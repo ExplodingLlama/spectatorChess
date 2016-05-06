@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chess.js/chess.js.iml" filepath="$PROJECT_DIR$/chess.js/chess.js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chessboardjs-0.3.0/chessboardjs-0.3.0.iml" filepath="$PROJECT_DIR$/chessboardjs-0.3.0/chessboardjs-0.3.0.iml" />
+    </modules>
+  </component>
+</project>

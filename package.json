@@ -1,0 +1,19 @@
+{
+  "name": "spectator_chess",
+  "version": "1.0.0",
+  "description": "A new way to watch chess games",
+  "main": "spectatorchess.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chess",
+    "spectator"
+  ],
+  "author": "explodingllama",
+  "license": "ISC"
+}
