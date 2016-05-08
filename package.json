@@ -4,7 +4,6 @@
   "description": "A new way to watch chess games",
   "main": "spectatorchess.js",
   "dependencies": {
-    "express": "^4.13.4"
   },
   "devDependencies": {},
   "scripts": {
