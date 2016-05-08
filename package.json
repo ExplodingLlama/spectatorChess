@@ -1,21 +1,31 @@
 {
-  "name": "spectator_chess",
+  "name": "spectatorchess",
   "version": "1.0.0",
-  "description": "A new way to watch chess games",
-  "main": "spectatorchess.js",
+  "description": "A new way to look at chess",
   "engines": {
     "node": "4.3.1",
     "npm": "2.14.12"
-  }
-  "dependencies": {},
+  },
+  "main": "spectatorchess.js",
+  "dependencies": {
+    "chess.js": "^0.9.4"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExplodingLlama/spectatorChess.git"
   },
   "keywords": [
     "chess",
     "spectator"
   ],
   "author": "explodingllama",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ExplodingLlama/spectatorChess/issues"
+  },
+  "homepage": "https://github.com/ExplodingLlama/spectatorChess#readme"
 }
