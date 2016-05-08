@@ -4,11 +4,10 @@
   "description": "A new way to watch chess games",
   "main": "spectatorchess.js",
   "engines": {
-    "node": "4.3.1"
+    "node": "4.3.1",
     "npm": "2.14.12"
   }
-  "dependencies": {
-  },
+  "dependencies": {}
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
